@@ -7,7 +7,8 @@ import me.clevekim.designpattern.strategy.quack.IQuackBehavior;
 
 public class CityDuck extends Duck {
 
-            public CityDuck(IQuackBehavior qb, IFlyBehavior fb, IDisplayBehavior db) {
-                super(qb, fb, db);
-            }
+    public CityDuck(IQuackBehavior qb, IFlyBehavior fb, IDisplayBehavior db) {
+
+        super(qb, fb, db);
+    }
 }
