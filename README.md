@@ -1,3 +1,5 @@
+I remind Design Pattern
+
 Sample source
 https://github.com/bethrobson/Head-First-Design-Patterns
 
